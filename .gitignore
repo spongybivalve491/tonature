@@ -1,0 +1,5 @@
+# Builder export archives
+Website*.zip
+
+# Local Claude Code settings
+.claude/settings.local.json
